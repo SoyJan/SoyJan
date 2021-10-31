@@ -1,5 +1,8 @@
-### Hi there 👋
+### Heya! what's up? :) 
 
+💼 CEO [cloud12.](https://github.com/janmarco18/cloud12.), 🛡️ Cyber Security, 🎵 Music Producer, 🎬 Video Editor
+
+"I am currently editing this"
 <!--
 **janmarco18/janmarco18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
