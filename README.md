@@ -1,3 +1,5 @@
+<img align='center' src='https://github.com/janmarco18/janmarco18/blob/main/imgs/git.gif?raw=true' width='100%'> 
+
 <img align='right' src='https://github.com/janmarco18/janmarco18/blob/main/sprites/viper.gif?raw=true' width='30%'> 
 
 # Heya! what's up? :) 
