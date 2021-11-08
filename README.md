@@ -23,3 +23,6 @@
  </p>
   
 ![](https://komarev.com/ghpvc/?username=janmarco18&color=grey)
+
+________________________________________________
+<img align='center' src='https://github.com/janmarco18/janmarco18/blob/main/imgs/signature.jpeg?raw=true' width='100%'> 
