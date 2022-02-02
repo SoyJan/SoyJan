@@ -10,7 +10,7 @@
 🎬 Video Editor
 
 <h2 align="left">Skills</h2>
-<p align="left">
+<p align="right">
   <img src='https://github.com/janmarco18/janmarco18/blob/main/skills/CSS3.png' height='40px'/>
   <img src='https://github.com/janmarco18/janmarco18/blob/main/skills/HTML5.png' height='40px'/>
   <img src='https://github.com/janmarco18/janmarco18/blob/main/skills/JS.jpg' height='40px'/>
