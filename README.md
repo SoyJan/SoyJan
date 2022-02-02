@@ -29,4 +29,4 @@
 </p>
 
 ___
-<img align='center' src='https://github.com/janmarco18/janmarco18/blob/main/imgs/jansignature.png?raw=true' width='20%'>
+<img align='left' src='https://github.com/janmarco18/janmarco18/blob/main/imgs/jansignature.png?raw=true' width='20%'>
