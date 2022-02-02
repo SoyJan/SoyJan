@@ -1,4 +1,4 @@
-<img align='left' src='https://github.com/janmarco18/janmarco18/blob/main/sprites/viper.gif?raw=true' width='30%'> 
+<img align='right' src='https://github.com/janmarco18/janmarco18/blob/main/sprites/viper.gif?raw=true' width='30%'> 
 
 <h2 align="left">Welcome! how are you?</h2> 
   
@@ -10,7 +10,7 @@
 🎬 Video Editor
 
 <h2 align="left">Skills</h2>
-<p align="right">
+<p align="left">
   <img src='https://github.com/janmarco18/janmarco18/blob/main/skills/CSS3.png' height='40px'/>
   <img src='https://github.com/janmarco18/janmarco18/blob/main/skills/HTML5.png' height='40px'/>
   <img src='https://github.com/janmarco18/janmarco18/blob/main/skills/JS.jpg' height='40px'/>
