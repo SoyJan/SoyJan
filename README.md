@@ -22,8 +22,7 @@
   <img src='https://github.com/janmarco18/janmarco18/blob/main/skills/Kali.svg' height='40px'/>
   <img src='https://github.com/janmarco18/janmarco18/blob/main/skills/Deb.webp' height='40px'/>
   <img src='https://github.com/janmarco18/janmarco18/blob/main/skills/Ubuntu.png' height='40px'/>
-
- </p>
+</p>
   
 ![](https://komarev.com/ghpvc/?username=janmarco18&color=grey)
 
