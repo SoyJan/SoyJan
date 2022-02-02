@@ -1,6 +1,8 @@
 <img align='left' src='https://github.com/janmarco18/janmarco18/blob/main/sprites/viper.gif?raw=true' width='30%'> 
 
-<h2 align="left">Welcome! how are you?</h2>
+<h2 align="left">Welcome! how are you?</h2> 
+  
+![](https://komarev.com/ghpvc/?username=janmarco18&color=red)
 
 💼 CEO [cloud12.](https://github.com/janmarco18/cloud12.), 
 🛡️ Cyber Security, 
@@ -25,8 +27,6 @@
   <img src='https://github.com/janmarco18/janmarco18/blob/main/skills/Ubu.png' height='40px'/>
   <img src='https://github.com/janmarco18/janmarco18/blob/main/skills/Deb.webp' height='40px'/>
 </p>
-  
-![](https://komarev.com/ghpvc/?username=janmarco18&color=red)
 
-________________________________________________
+___
 <img align='center' src='https://github.com/janmarco18/janmarco18/blob/main/imgs/signature.jpeg?raw=true' width='100%'> 
