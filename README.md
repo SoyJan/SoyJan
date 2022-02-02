@@ -12,7 +12,6 @@
   <img src='https://github.com/janmarco18/janmarco18/blob/main/skills/JS.jpg' height='40px'/>
   <img src='https://github.com/janmarco18/janmarco18/blob/main/skills/TS.png' height='40px'/>
   <img src='https://github.com/janmarco18/janmarco18/blob/main/skills/Java.png' height='40px'/>
-  <img src='https://github.com/janmarco18/janmarco18/blob/main/skills/Kotlin.png' height='40px'/>
   <img src='https://github.com/janmarco18/janmarco18/blob/main/skills/Njs.png' height='40px'/>
   <img src='https://github.com/janmarco18/janmarco18/blob/main/skills/Phyton.png' height='40px'/>
   <img src='https://github.com/janmarco18/janmarco18/blob/main/skills/React.png' height='40px'/>
