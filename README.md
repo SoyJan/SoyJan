@@ -1,4 +1,4 @@
-<img align='right' src='https://github.com/janmarco18/janmarco18/blob/main/sprites/viper.gif?raw=true' width='30%'> 
+<img align='right' src='https://github.com/janmarco18/janmarco18/blob/main/sprites/sova.gif?raw=true' width='30%'> 
 
 <h2 align="left">Welcome! how are you?</h2> 
   
