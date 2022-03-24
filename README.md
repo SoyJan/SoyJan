@@ -24,6 +24,7 @@
   <img src='https://github.com/janmarco18/janmarco18/blob/main/skills/VSC.png' height='30px'/>
   <img src='https://github.com/janmarco18/janmarco18/blob/main/skills/KDE.png' height='30px'/>
   <img src='https://github.com/janmarco18/janmarco18/blob/main/skills/Kali.svg' height='30px'/>
+  <img src='https://github.com/janmarco18/janmarco18/blob/main/skills/Parrot.png' height='30px'/>
   <img src='https://github.com/janmarco18/janmarco18/blob/main/skills/Ubu.png' height='30px'/>
   <img src='https://github.com/janmarco18/janmarco18/blob/main/skills/Deb.webp' height='30px'/>
 </p>
