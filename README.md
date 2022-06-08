@@ -10,6 +10,7 @@ According to my parents, my passion for computers and programming started when I
 * ✉️  You can contact me at [janmarco.contacto@gmail.com](mailto:janmarco.contacto@gmail.com)
 * 🚀  I'm currently working on [creative creator.](http://twitter.com/orgcreativecrea)
 * 🧠  I'm learning English and German
+* 🧠  I'm reinforcing my knowledge in [Python](https://www.python.org/)
 
 <a href="https://www.twitter.com/janmarco_18" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/janmarco_18?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
