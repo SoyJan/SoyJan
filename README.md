@@ -4,8 +4,6 @@ Hi 👋 My name is Jan
 Software engineer and Designer
 ------------------------------
 
-According to my parents, my passion for computers and programming started when I was a child, but according to me it started when I was 8 years old.
-
 * 🌍  I'm based in Zacatecas, México
 * ✉️  You can contact me at [janmarco.contacto@gmail.com](mailto:janmarco.contacto@gmail.com)
 * 🚀  I'm currently working on [creative creator.](http://twitter.com/orgcreativecrea)
