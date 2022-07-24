@@ -48,7 +48,6 @@ src="https://img.shields.io/twitch/status/janmarco_18?logo=twitchsx&style=for-th
 <a href="https://www.twitter.com/janmarco_18" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="36" height="36" /></a>
 <a href="https://www.youtube.com/c/UCsiPUv4ayGFW5B8K59cch2w" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="36" height="36" /></a> 
 <a href="https://www.twitch.tv/janmarco_18" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="36" height="36" /></a>
-<a href="https://blog.grapes.codes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="36" height="36" /></a></p>
 
 ### Badges
 
