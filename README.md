@@ -4,7 +4,7 @@ Hi 👋 My name is Jan
 Software engineer and Designer
 ------------------------------
 
-* 🌍  I'm based in Zacatecas, México
+* 🌍  I'm living in Zacatecas, México
 * ✉️  You can contact me at [janmarco.contacto@gmail.com](mailto:janmarco.contacto@gmail.com)
 * 🚀  I'm currently working on [creative creator.](http://twitter.com/orgcreativecrea)
 * 🧠  I'm learning English and German
