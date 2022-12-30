@@ -1,6 +1,3 @@
-Hi 👋 My name is Jan
-====================
-
 Software engineer and Designer
 ------------------------------
 
