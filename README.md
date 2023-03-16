@@ -9,8 +9,8 @@ Software engineer and Designer
 
 <a href="https://www.twitter.com/janmarco_18" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/janmarco_18?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.twitch.tv/jancitou" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/jancitou?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+/></a><a href="https://www.twitch.tv/janmarco_18" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/janmarco_18?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 ### Skills
 
 <p align="left">
