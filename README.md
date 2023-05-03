@@ -39,7 +39,7 @@ src="https://img.shields.io/twitch/status/janmarco_18?logo=twitchsx&style=for-th
 <a href="https://www.behance.com/janmarco_18" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="36" height="36" /></a> 
 <a href="https://discord.com/users/367444836992679937" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="36" height="36" /></a> 
 <a href="https://www.facebook.com/janmarco.var" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="36" height="36" /></a> 
-<a href="https://www.github.com/janmarco18" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" /></a> 
+<a href="https://www.github.com/SoyJan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" /></a> 
 <a href="http://www.instagram.com/janmarco_18" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="36" height="36" /></a> 
 <a href="http://www.medium.com/@marcovarela1290" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="36" height="36" /></a> 
 <a href="https://www.twitter.com/janmarco_18" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="36" height="36" /></a>
@@ -50,6 +50,6 @@ src="https://img.shields.io/twitch/status/janmarco_18?logo=twitchsx&style=for-th
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/janmarco18"><img src="https://github-readme-stats.vercel.app/api?username=janmarco18&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="janmarco18's GitHub stats" /></a>
+<a href="http://www.github.com/SoyJan"><img src="https://github-readme-stats.vercel.app/api?username=SoyJan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SoyJan's GitHub stats" /></a>
 
-<a href="https://www.github.com/janmarco18" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janmarco18&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://www.github.com/SoyJan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoyJan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
