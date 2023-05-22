@@ -9,10 +9,6 @@ Programmer, developer, designer, video editor and software engineer 💻
 * 🎬  I'm also a professional video editor, and I'm a graphic designer in process, 🎨 I work easily in web projects 🌐, handling various designs, applications for android devices 📱, among others.
 * 🕹  I can design discord servers in a professional manner, prioritizing the security ⚔ of the server in question, I have knowledge in moderation for streaming on Twitch and YouTube 🎮.
 
-<a href="https://www.twitter.com/soyjanmarco" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/soyjanmarco?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.twitch.tv/soyjanmarco" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/soyjanmarco?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 ### Skills
 
 <p align="left">
@@ -45,6 +41,11 @@ src="https://img.shields.io/twitch/status/soyjanmarco?logo=twitchsx&style=for-th
 <a href="https://www.twitter.com/soyjanmarco" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="36" height="36" /></a>
 <a href="https://www.youtube.com/c/UCsiPUv4ayGFW5B8K59cch2w" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="36" height="36" /></a> 
 <a href="https://www.twitch.tv/soyjanmarco" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="36" height="36" /></a>
+
+<a href="https://www.twitter.com/soyjanmarco" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/soyjanmarco?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.twitch.tv/soyjanmarco" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/soyjanmarco?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>  
 
 ### Badges
 
