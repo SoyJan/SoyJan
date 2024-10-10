@@ -1,7 +1,7 @@
 Programmer, developer, designer, video editor and software engineer 💻
 ------------------------------
 
-* 🌍  I'm from México
+* 🌍  I'm from Zacatecas, México
 * ✉️  You can contact me at [janmarco.contacto@gmail.com](mailto:janmarco.contacto@gmail.com)
 * 🐱‍👤  I am the owner and responsible for managing [creative creator.](https://github.com/creative-creator-org)
 * 🎮  In my spare time I usually play [osu!std 🟣](https://osu.ppy.sh/users/8613890) or VALORANT 🟥.
