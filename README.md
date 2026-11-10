@@ -1,13 +1,8 @@
 Programmer, developer, designer, video editor and software engineer 💻
 ------------------------------
 
-* 🌍  I'm from Zacatecas, México
-* ✉️  You can contact me at [janmarco.contacto@gmail.com](mailto:janmarco.contacto@gmail.com)
-* 🐱‍👤  I am the owner and responsible for managing [creative creator.](https://github.com/creative-creator-org)
-* 🎮  In my spare time I usually play [osu!std 🟣](https://osu.ppy.sh/users/8613890) or VALORANT 🟥.
-*  🛡  Cybersecurity is one of my specialties, as well as network auditing 📡, I like to find vulnerabilities inside networks.
-* 🎬  I'm also a professional video editor, and I'm a graphic designer in process, 🎨 I work easily in web projects 🌐, handling various designs, applications for android devices 📱, among others.
-* 🕹  I can design discord servers in a professional manner, prioritizing the security ⚔ of the server in question, I have knowledge in moderation for streaming on Twitch and YouTube 🎮.
+* 🌍  Zacatecas, México
+* ✉️  [noe@creativecreator.cc](mailto:noe@creativecreator.cc)
 
 ### Skills
 
